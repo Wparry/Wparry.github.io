@@ -1,13 +1,14 @@
 var gallery = document.getElementById("gallery");
 // For a recap on using Fetch, please see my fetch demo:
 // https://codepen.io/pbutcher/pen/wvaeQvZ
-fetch("assets/gallery.json")
+fetch('assets/gallery.json')
 
 // Do something with the response...
 .then(function(res) {
-  
+
     // Get the JSON representation of the response object then...
     res.json().then(function(json) {
+      console.log("hi");
   
       // Loop over each object in our JSON object (array)...
       json.forEach(function(el) {
