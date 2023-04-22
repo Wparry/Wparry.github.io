@@ -1,0 +1,38 @@
+[
+    {
+        "url": "file:///C:/ICE1411/Main%20assignment/img/pubg.jpg",
+        "caption": "PlayerUnknown's BattleGrounds"
+    },
+    {
+        "url": "file:///C:/ICE1411/Main%20assignment/img/r6.jpg",
+        "caption": "Rainbow Six Siege"
+    },
+    {
+        "url": "file:///C:/ICE1411/Main%20assignment/img/warzone2.jpg",
+        "caption": "Warzone 2"
+    },
+    {
+        "url": "file:///C:/ICE1411/Main%20assignment/img/rust.jpg",
+        "caption": "Rust"
+    },
+    {
+        "url": "file:///C:/ICE1411/Main%20assignment/img/apexLegends.png",
+        "caption": "Apex Legends"
+    },
+    {
+        "url": "file:///C:/ICE1411/Main%20assignment/img/rocket-league.jpg",
+        "caption":"Rocket League"
+    },
+    {
+        "url": "file:///C:/ICE1411/Main%20assignment/img/mario-kart.jpg",
+        "caption": "Mario Kart 8"
+    },
+    {
+        "url": "file:///C:/ICE1411/Main%20assignment/img/war-thunder.jpg",
+        "caption": "war Thunder"
+    },
+    {
+        "url": "file:///C:/ICE1411/Main%20assignment/img/minecraft.jpg",
+        "caption": "Minecraft Bed-Wars"
+    }
+]
