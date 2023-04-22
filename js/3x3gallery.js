@@ -1,4 +1,4 @@
-fetch("main/assets/gallery.json")
+fetch("assets/gallery.json")
 
 // Do something with the response...
 .then(function(res) {
