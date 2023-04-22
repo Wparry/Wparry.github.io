@@ -1,4 +1,4 @@
-fetch("file:///C:/ICE1411/Main%20assignment/assets/gallery.json")
+fetch("main/assets/gallery.json")
 
 // Do something with the response...
 .then(function(res) {
