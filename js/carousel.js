@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // Next image button
   var next = document.getElementById('carouselNext');
 
-  fetch("assets/gallerycarousel.json")
+  fetch("assets/galleryCarousel.json")
 
     .then(function (res) {//then when it gets a response
 
