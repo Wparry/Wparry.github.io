@@ -1,0 +1,416 @@
+[
+    {
+        "url": "img/pubg1.jpg",
+        "caption": "PlayerUnknown's Battlegrounds",
+        "rules": [
+            {
+                "ruleName": "Evolution",
+                "rule": "You can only initially use melee weapons to attack enemies. You may loot the weapons of an enemy which you have killed."
+            },
+            {
+                "ruleName": "Explosions",
+                "rule": "You must only use explosives or throwables to attack enemies. You can use melee weapons and pistols if you have no explosives."
+            },
+            {
+                "ruleName": "Mad Max",
+                "rule": "You can only use vehicles to attack enemies, you are allowed to shoot aslong as youre inside the vehicle. You cannot get out of the vehicle except to heal or revive teammates."
+            },
+            {
+                "ruleName": "Where am i?",
+                "rule": "You should carry as much smoke grenades as possible as you can only attack enemies while you are inside a smoke cloud."
+            },
+            {
+                "ruleName": "NPC",
+                "rule": "You must always be running and crouching. If you wish to shoot, you must stop moving and stand up fully. You are not allowed to move while shooting."
+            },
+            {
+                "ruleName": "Home Sweet Home",
+                "rule": "You must pick a building to land on, make sure you choose wisely as this is the only loot you are allowed all game!"
+            },
+            {
+                "ruleName": "Who are you?",
+                "rule": "You have to call your teammates by their middle name."
+            },
+            {
+                "ruleName": "No Healing",
+                "rule": "You cannot use any healing items, including first aid kits and bandages. The only way you can heal is by finding energy drinks and painkillers."
+            },
+            {
+                "ruleName": "Scavenger Hunt",
+                "rule": "You cannot loot any buildings or structures. Instead, you must find all of your equipment by looting enemy corpses and supply drops."
+            },
+            {
+                "ruleName": "Squadran",
+                "rule": "There are four roles, Captain, Scout, Driver, Medic. The Captain makes all the decisions, no questions asked. Scout is the only sniper in the squad. Driver is the only one allowed to drive. Medic is the only one out of the team who is allowed to heal themselves and everyone else using EMT gear.  Players must choose their roles before the game starts. "
+            }
+        ]
+    },
+    {
+        "url": "img/r61.jpg",
+        "caption": "Rainbow Six Siege",
+        "rules": [
+            {
+                "ruleName": "Evolution",
+                "rule": "You can only initially use melee weapons to attack enemies. You may pick up and use any loot of an enemy which you have killed."
+            },
+            {
+                "ruleName": "Explosions",
+                "rule": "You must only use explosives or throwables to attack enemies. You can use melee weapons and pistols if you have no explosives."
+            },
+            {
+                "ruleName": "Mad Max",
+                "rule": "You can only use vehicles to attack enemies, you are allowed to shoot aslong as youre inside the vehicle. You cannot get out of the vehicle except to heal or revive teammates."
+            },
+            {
+                "ruleName": "Where am i?",
+                "rule": "You should carry as much smoke grenaYou can only attack enemies while you are inside a smoke cloud."
+            },
+            {
+                "ruleName": "NPC",
+                "rule": ":You must always be running and cannot stop or crouch. If you wish to shoot, you must stop moving and crouch. you cannot move while shooting."
+            },
+            {
+                "ruleName": "Home Sweet Home",
+                "rule": "You must pick a building to land on, make sure you choose wisely as this is the loot from the building is the only loot you are allowed all game!"
+            },
+            {
+                "ruleName": "Who are you?",
+                "rule": "You have to call your teammates by their middle name."
+            },
+            {
+                "ruleName": "No Healing",
+                "rule": "You cannot use any healing items, including first aid kits and bandages. The only way you can heal is by finding energy drinks and painkillers."
+            },
+            {
+                "ruleName": "Scavenger Hunt",
+                "rule": "You cannot loot any buildings or structures. Instead, you must find all of your equipment by looting enemy corpses and supply drops."
+            },
+            {
+                "ruleName": "Squadran",
+                "rule": "There are four roles, Captain, Scout, Driver, Medic. The Captain makes all the decisions, no questions asked. Scout is the only sniper in the squad. Driver is the only one allowed to drive. Medic is the only one out of the team who is allowed to heal themselves and everyone else using EMT gear.  Players must choose their roles before the game starts. "
+            }
+        ]
+    },
+    {
+        "url": "img/warzone1.jpg",
+        "caption": "Warzone 2",
+        "rules": [
+            {
+                "ruleName": "Evolution",
+                "rule": "You can only initially use melee weapons to attack enemies. You may pick up and use any loot of an enemy which you have killed."
+            },
+            {
+                "ruleName": "Explosions",
+                "rule": "You must only use explosives or throwables to attack enemies. You can use melee weapons and pistols if you have no explosives."
+            },
+            {
+                "ruleName": "Mad Max",
+                "rule": "You can only use vehicles to attack enemies, you are allowed to shoot aslong as youre inside the vehicle. You cannot get out of the vehicle except to heal or revive teammates."
+            },
+            {
+                "ruleName": "Where am i?",
+                "rule": "You should carry as much smoke grenaYou can only attack enemies while you are inside a smoke cloud."
+            },
+            {
+                "ruleName": "NPC",
+                "rule": ":You must always be running and cannot stop or crouch. If you wish to shoot, you must stop moving and crouch. you cannot move while shooting."
+            },
+            {
+                "ruleName": "Home Sweet Home",
+                "rule": "You must pick a building to land on, make sure you choose wisely as this is the loot from the building is the only loot you are allowed all game!"
+            },
+            {
+                "ruleName": "Who are you?",
+                "rule": "You have to call your teammates by their middle name."
+            },
+            {
+                "ruleName": "No Healing",
+                "rule": "You cannot use any healing items, including first aid kits and bandages. The only way you can heal is by finding energy drinks and painkillers."
+            },
+            {
+                "ruleName": "Scavenger Hunt",
+                "rule": "You cannot loot any buildings or structures. Instead, you must find all of your equipment by looting enemy corpses and supply drops."
+            },
+            {
+                "ruleName": "Squadran",
+                "rule": "There are four roles, Captain, Scout, Driver, Medic. The Captain makes all the decisions, no questions asked. Scout is the only sniper in the squad. Driver is the only one allowed to drive. Medic is the only one out of the team who is allowed to heal themselves and everyone else using EMT gear.  Players must choose their roles before the game starts. "
+            }
+        ]
+    },
+    {
+        "url": "img/rust1.jpg",
+        "caption": "Rust",
+        "rules": [
+            {
+                "ruleName": "Evolution",
+                "rule": "You can only initially use melee weapons to attack enemies. You may pick up and use any loot of an enemy which you have killed."
+            },
+            {
+                "ruleName": "Explosions",
+                "rule": "You must only use explosives or throwables to attack enemies. You can use melee weapons and pistols if you have no explosives."
+            },
+            {
+                "ruleName": "Mad Max",
+                "rule": "You can only use vehicles to attack enemies, you are allowed to shoot aslong as youre inside the vehicle. You cannot get out of the vehicle except to heal or revive teammates."
+            },
+            {
+                "ruleName": "Where am i?",
+                "rule": "You should carry as much smoke grenaYou can only attack enemies while you are inside a smoke cloud."
+            },
+            {
+                "ruleName": "NPC",
+                "rule": ":You must always be running and cannot stop or crouch. If you wish to shoot, you must stop moving and crouch. you cannot move while shooting."
+            },
+            {
+                "ruleName": "Home Sweet Home",
+                "rule": "You must pick a building to land on, make sure you choose wisely as this is the loot from the building is the only loot you are allowed all game!"
+            },
+            {
+                "ruleName": "Who are you?",
+                "rule": "You have to call your teammates by their middle name."
+            },
+            {
+                "ruleName": "No Healing",
+                "rule": "You cannot use any healing items, including first aid kits and bandages. The only way you can heal is by finding energy drinks and painkillers."
+            },
+            {
+                "ruleName": "Scavenger Hunt",
+                "rule": "You cannot loot any buildings or structures. Instead, you must find all of your equipment by looting enemy corpses and supply drops."
+            },
+            {
+                "ruleName": "Squadran",
+                "rule": "There are four roles, Captain, Scout, Driver, Medic. The Captain makes all the decisions, no questions asked. Scout is the only sniper in the squad. Driver is the only one allowed to drive. Medic is the only one out of the team who is allowed to heal themselves and everyone else using EMT gear.  Players must choose their roles before the game starts. "
+            }
+        ]
+    },
+    {
+        "url": "img/apexLegends1.png",
+        "caption": "Apex Legends",
+        "rules": [
+            {
+                "ruleName": "Evolution",
+                "rule": "You can only initially use melee weapons to attack enemies. You may pick up and use any loot of an enemy which you have killed."
+            },
+            {
+                "ruleName": "Explosions",
+                "rule": "You must only use explosives or throwables to attack enemies. You can use melee weapons and pistols if you have no explosives."
+            },
+            {
+                "ruleName": "Mad Max",
+                "rule": "You can only use vehicles to attack enemies, you are allowed to shoot aslong as youre inside the vehicle. You cannot get out of the vehicle except to heal or revive teammates."
+            },
+            {
+                "ruleName": "Where am i?",
+                "rule": "You should carry as much smoke grenaYou can only attack enemies while you are inside a smoke cloud."
+            },
+            {
+                "ruleName": "NPC",
+                "rule": ":You must always be running and cannot stop or crouch. If you wish to shoot, you must stop moving and crouch. you cannot move while shooting."
+            },
+            {
+                "ruleName": "Home Sweet Home",
+                "rule": "You must pick a building to land on, make sure you choose wisely as this is the loot from the building is the only loot you are allowed all game!"
+            },
+            {
+                "ruleName": "Who are you?",
+                "rule": "You have to call your teammates by their middle name."
+            },
+            {
+                "ruleName": "No Healing",
+                "rule": "You cannot use any healing items, including first aid kits and bandages. The only way you can heal is by finding energy drinks and painkillers."
+            },
+            {
+                "ruleName": "Scavenger Hunt",
+                "rule": "You cannot loot any buildings or structures. Instead, you must find all of your equipment by looting enemy corpses and supply drops."
+            },
+            {
+                "ruleName": "Squadran",
+                "rule": "There are four roles, Captain, Scout, Driver, Medic. The Captain makes all the decisions, no questions asked. Scout is the only sniper in the squad. Driver is the only one allowed to drive. Medic is the only one out of the team who is allowed to heal themselves and everyone else using EMT gear.  Players must choose their roles before the game starts. "
+            }
+        ]
+    },
+    {
+        "url": "img/rocket-league1.jpg",
+        "caption": "Rocket League",
+        "rules": [
+            {
+                "ruleName": "Evolution",
+                "rule": "You can only initially use melee weapons to attack enemies. You may pick up and use any loot of an enemy which you have killed."
+            },
+            {
+                "ruleName": "Explosions",
+                "rule": "You must only use explosives or throwables to attack enemies. You can use melee weapons and pistols if you have no explosives."
+            },
+            {
+                "ruleName": "Mad Max",
+                "rule": "You can only use vehicles to attack enemies, you are allowed to shoot aslong as youre inside the vehicle. You cannot get out of the vehicle except to heal or revive teammates."
+            },
+            {
+                "ruleName": "Where am i?",
+                "rule": "You should carry as much smoke grenaYou can only attack enemies while you are inside a smoke cloud."
+            },
+            {
+                "ruleName": "NPC",
+                "rule": ":You must always be running and cannot stop or crouch. If you wish to shoot, you must stop moving and crouch. you cannot move while shooting."
+            },
+            {
+                "ruleName": "Home Sweet Home",
+                "rule": "You must pick a building to land on, make sure you choose wisely as this is the loot from the building is the only loot you are allowed all game!"
+            },
+            {
+                "ruleName": "Who are you?",
+                "rule": "You have to call your teammates by their middle name."
+            },
+            {
+                "ruleName": "No Healing",
+                "rule": "You cannot use any healing items, including first aid kits and bandages. The only way you can heal is by finding energy drinks and painkillers."
+            },
+            {
+                "ruleName": "Scavenger Hunt",
+                "rule": "You cannot loot any buildings or structures. Instead, you must find all of your equipment by looting enemy corpses and supply drops."
+            },
+            {
+                "ruleName": "Squadran",
+                "rule": "There are four roles, Captain, Scout, Driver, Medic. The Captain makes all the decisions, no questions asked. Scout is the only sniper in the squad. Driver is the only one allowed to drive. Medic is the only one out of the team who is allowed to heal themselves and everyone else using EMT gear.  Players must choose their roles before the game starts. "
+            }
+        ]
+    },
+    {
+        "url": "img/mario-kart1.jpg",
+        "caption": "Mario Kart 8 Deluxe",
+        "rules": [
+            {
+                "ruleName": "Evolution",
+                "rule": "You can only initially use melee weapons to attack enemies. You may pick up and use any loot of an enemy which you have killed."
+            },
+            {
+                "ruleName": "Explosions",
+                "rule": "You must only use explosives or throwables to attack enemies. You can use melee weapons and pistols if you have no explosives."
+            },
+            {
+                "ruleName": "Mad Max",
+                "rule": "You can only use vehicles to attack enemies, you are allowed to shoot aslong as youre inside the vehicle. You cannot get out of the vehicle except to heal or revive teammates."
+            },
+            {
+                "ruleName": "Where am i?",
+                "rule": "You should carry as much smoke grenaYou can only attack enemies while you are inside a smoke cloud."
+            },
+            {
+                "ruleName": "NPC",
+                "rule": ":You must always be running and cannot stop or crouch. If you wish to shoot, you must stop moving and crouch. you cannot move while shooting."
+            },
+            {
+                "ruleName": "Home Sweet Home",
+                "rule": "You must pick a building to land on, make sure you choose wisely as this is the loot from the building is the only loot you are allowed all game!"
+            },
+            {
+                "ruleName": "Who are you?",
+                "rule": "You have to call your teammates by their middle name."
+            },
+            {
+                "ruleName": "No Healing",
+                "rule": "You cannot use any healing items, including first aid kits and bandages. The only way you can heal is by finding energy drinks and painkillers."
+            },
+            {
+                "ruleName": "Scavenger Hunt",
+                "rule": "You cannot loot any buildings or structures. Instead, you must find all of your equipment by looting enemy corpses and supply drops."
+            },
+            {
+                "ruleName": "Squadran",
+                "rule": "There are four roles, Captain, Scout, Driver, Medic. The Captain makes all the decisions, no questions asked. Scout is the only sniper in the squad. Driver is the only one allowed to drive. Medic is the only one out of the team who is allowed to heal themselves and everyone else using EMT gear.  Players must choose their roles before the game starts. "
+            }
+        ]
+    },
+    {
+        "url": "img/war-thunder1.jpg",
+        "caption": "war Thunder",
+        "rules": [
+            {
+                "ruleName": "Evolution",
+                "rule": "You can only initially use melee weapons to attack enemies. You may pick up and use any loot of an enemy which you have killed."
+            },
+            {
+                "ruleName": "Explosions",
+                "rule": "You must only use explosives or throwables to attack enemies. You can use melee weapons and pistols if you have no explosives."
+            },
+            {
+                "ruleName": "Mad Max",
+                "rule": "You can only use vehicles to attack enemies, you are allowed to shoot aslong as youre inside the vehicle. You cannot get out of the vehicle except to heal or revive teammates."
+            },
+            {
+                "ruleName": "Where am i?",
+                "rule": "You should carry as much smoke grenaYou can only attack enemies while you are inside a smoke cloud."
+            },
+            {
+                "ruleName": "NPC",
+                "rule": ":You must always be running and cannot stop or crouch. If you wish to shoot, you must stop moving and crouch. you cannot move while shooting."
+            },
+            {
+                "ruleName": "Home Sweet Home",
+                "rule": "You must pick a building to land on, make sure you choose wisely as this is the loot from the building is the only loot you are allowed all game!"
+            },
+            {
+                "ruleName": "Who are you?",
+                "rule": "You have to call your teammates by their middle name."
+            },
+            {
+                "ruleName": "No Healing",
+                "rule": "You cannot use any healing items, including first aid kits and bandages. The only way you can heal is by finding energy drinks and painkillers."
+            },
+            {
+                "ruleName": "Scavenger Hunt",
+                "rule": "You cannot loot any buildings or structures. Instead, you must find all of your equipment by looting enemy corpses and supply drops."
+            },
+            {
+                "ruleName": "Squadran",
+                "rule": "There are four roles, Captain, Scout, Driver, Medic. The Captain makes all the decisions, no questions asked. Scout is the only sniper in the squad. Driver is the only one allowed to drive. Medic is the only one out of the team who is allowed to heal themselves and everyone else using EMT gear.  Players must choose their roles before the game starts. "
+            }
+        ]
+    },
+    {
+        "url": "img/minecraft1.jpg",
+        "caption": "Minecraft Bed-Wars",
+        "rules": [
+            {
+                "ruleName": "Evolution",
+                "rule": "You can only initially use melee weapons to attack enemies. You may pick up and use any loot of an enemy which you have killed."
+            },
+            {
+                "ruleName": "Explosions",
+                "rule": "You must only use explosives or throwables to attack enemies. You can use melee weapons and pistols if you have no explosives."
+            },
+            {
+                "ruleName": "Mad Max",
+                "rule": "You can only use vehicles to attack enemies, you are allowed to shoot aslong as youre inside the vehicle. You cannot get out of the vehicle except to heal or revive teammates."
+            },
+            {
+                "ruleName": "Where am i?",
+                "rule": "You should carry as much smoke grenaYou can only attack enemies while you are inside a smoke cloud."
+            },
+            {
+                "ruleName": "NPC",
+                "rule": ":You must always be running and cannot stop or crouch. If you wish to shoot, you must stop moving and crouch. you cannot move while shooting."
+            },
+            {
+                "ruleName": "Home Sweet Home",
+                "rule": "You must pick a building to land on, make sure you choose wisely as this is the loot from the building is the only loot you are allowed all game!"
+            },
+            {
+                "ruleName": "Who are you?",
+                "rule": "You have to call your teammates by their middle name."
+            },
+            {
+                "ruleName": "No Healing",
+                "rule": "You cannot use any healing items, including first aid kits and bandages. The only way you can heal is by finding energy drinks and painkillers."
+            },
+            {
+                "ruleName": "Scavenger Hunt",
+                "rule": "You cannot loot any buildings or structures. Instead, you must find all of your equipment by looting enemy corpses and supply drops."
+            },
+            {
+                "ruleName": "Squadran",
+                "rule": "There are four roles, Captain, Scout, Driver, Medic. The Captain makes all the decisions, no questions asked. Scout is the only sniper in the squad. Driver is the only one allowed to drive. Medic is the only one out of the team who is allowed to heal themselves and everyone else using EMT gear.  Players must choose their roles before the game starts. "
+            }
+        ]
+    }
+]
