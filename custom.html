@@ -1,0 +1,90 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta chartset="utf-8">
+    <title>GameHub</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script defer type="text/javascript" src="js/customList.js"></script>
+    <script src="https://kit.fontawesome.com/ca045a2510.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <header>
+        <h1>GameHub</h1>
+        <nav class="main-menu">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="roulette.html">Roulette</a></li>
+                <li><a href="custom.html">Custom</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="top-main">
+            <section class="rules">
+                <div class="rule">
+                    <h2>Custom game </h2>
+                    <P class="rule-description">Welcome to Custom! here in custom, feel free to apply your own rules for
+                        any game you would like. Add your rules into the text box and press add after each rule. After
+                        you have written all of your rules, press the start button and your rules will show randomly. If
+                        you would like to not include a certain rule, click on the rule under Active Rules and it will
+                        be transferred to Non-active rules!</P>
+                    <button type="submit" class="start" id="start"><span>Start</span></button>
+                    <p id="ruledesc"></p>
+                </div>
+            </section>
+        </section>
+        <section class="mid-main">
+            <div class="todo-list-box" id="listBox">
+                <h3>Active rules;</h3>
+                <ul id="todoList"></ul>
+            </div>
+            <form class="input-box">
+                <label class="Add-Rule-Text">Add a new rule: </label>
+                <div>
+                    <input type="text" id="newTodo" class="new-todo" placeholder="New todo" />
+                    <button type="submit" class="add-todo" id="addNewTodo">
+                        <i class="fas fa-plus"></i>
+                        <span>Add</span>
+                    </button>
+                </div>
+            </form>
+            <div class="completed-list-box" id="comListBox">
+                <h3>Non-active Rules;</h3>
+                <ul id="todoDoneList"></ul>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <section class="feedback">
+            <div class="in-feedback">
+                <h4 class="main-title">Give feedback!</h4>
+                <div class="detes">
+                    <div class="email">
+                        <h4>Email address</h4>
+                        <p>wparry12@outlook.com</P>
+                    </div>
+                    <div class="mobile">
+                        <h4>Mobile</h4>
+                        <p>07888417048</p>
+                    </div>
+                    <div class="social-stuff">
+                        <h4>Socials</h4>
+                        <dic class="ank">
+                            <a href="https://www.instagram.com/william.parry_/">
+                                <i class="fa-brands fa-instagram"></i>
+                            </a>
+                            <a href="https://www.facebook.com/william.parry.5030">
+                                <i class="fa-brands fa-facebook"></i>
+                            </a>
+                        </dic>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </footer>
+</body>
+
+</html>
