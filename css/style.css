@@ -690,17 +690,14 @@ End - about.html
 
 @media(max-width: 750px) {
   .carousel {
-    transition: height 3s ease-out;
     height: 350px;
   }
   
   .carousel-images {
-    transition: height 3s ease-out;
     height: 350px;
   }
 
   .carousel-images img {
-    transition: height 3s ease-out;
     height: 350px;
   }
   
